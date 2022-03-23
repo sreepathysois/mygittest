@@ -1,2 +1,1 @@
-welcome my first git file to repo
-welcome to devops
+hi i using git for first time
